@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+# WebStorm files
+.idea
+environment.txt
+
+# Dependency directory
+node_modules
+
+# Apple OSX Cruft
+.DS_Store
+
+# keep local file out of github
+config/local.json
+
+#local config file
+package-lock.json

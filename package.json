@@ -1,0 +1,40 @@
+{
+  "name": "socket-io-chat-server",
+  "version": "1.0.0",
+  "description": "A Node.js Driven application to demonstrate the concept of Socket programming and socket driven I/O",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshayvs/Socket-io-chat-server.git"
+  },
+  "keywords": [
+    "Node.js",
+    "socket.io",
+    "chat-server",
+    "ES6"
+  ],
+  "author": "akshay93@ieee.org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Akshayvs/Socket-io-chat-server/issues"
+  },
+  "homepage": "https://github.com/Akshayvs/Socket-io-chat-server#readme",
+  "devDependencies": {
+    "chai": "3.5",
+    "chai-as-promised": "6.0.0",
+    "jscs": "2.11.0",
+    "jshint": "2.9.1",
+    "mocha": " 2.3",
+    "mockery": "1.4.0",
+    "sinon": "1.17.6",
+    "sinon-as-promised": "4.0.2"
+  },
+  "dependencies": {
+    "express": "4.16.2",
+    "lodash": "4.17.4",
+    "socket.io": "2.0.4"
+  }
+}
